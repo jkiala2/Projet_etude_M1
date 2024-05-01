@@ -1,0 +1,9 @@
+debian
+password
+user
+username
+admin
+adminadmin
+admin123
+0000
+1234
