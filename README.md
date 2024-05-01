@@ -8,7 +8,7 @@
 ```
 ## Présentation
 
-Ce script Python a pour butd'automatiser le scan d'un réseau et de découvrir toutes les vulnérabilités des hôtes présents sur ce réseau.
+Ce script Python a pour but d'automatiser le scan d'un réseau et de découvrir toutes les vulnérabilités des hôtes présents sur ce réseau.
 Si le port 22 du protocole SSH est ouvert, le script lance un bruteforce pour tenter d'obtenir les identifiants de connexion pour établir une connexion SSH (pareil pour le protocole FTP si le port 21 est ouvert).
 
 Ce script est réalisé dans le cadre du projet d'étude en M1 à Sup de Vinci.
